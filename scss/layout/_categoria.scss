@@ -1,0 +1,84 @@
+/* categoria */
+
+
+.categoria{
+    width: 250px;
+    height: 200px;
+}
+
+
+#babyShower{
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.cardbaby{
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.cardbaby:hover .categoria{
+    transform: scale(1.1);
+}
+
+.categoria{
+    transition:800ms
+}
+
+
+#cumpleanos{
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.cumpleanos{
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.cumpleanos:hover .categoria{
+    transform: scale(1.1);
+}
+
+.categoria{
+    transition:1000ms
+}
+
+#bautizo{
+    display: flex;
+    justify-content:space-around;
+
+}
+
+.bautizo{
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.bautizo:hover .categoria{
+    transform: scale(1.1);
+}
+
+#boda{
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 20px;
+
+}
+
+.boda{
+    width: 250px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.boda:hover .categoria{
+    transform: scale(1.1);
+}
+
+/* categoria */
