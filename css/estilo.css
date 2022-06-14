@@ -20,7 +20,7 @@ h1 {
   font-family: "mi fuente";
   text-align: center;
   -webkit-text-decoration: solid;
-          text-decoration: solid;
+   text-decoration: solid;
 }
 
 h2 {
@@ -34,7 +34,7 @@ h2 {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+   justify-content: space-around;
 }
 
 #fila2 {
@@ -42,7 +42,7 @@ h2 {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: distribute;
-      justify-content: space-around;
+  justify-content: space-around;
 }
 
 #fila3 {
